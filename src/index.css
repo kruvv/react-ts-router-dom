@@ -25,7 +25,7 @@ code {
   margin-top: 1rem;
 }
 
-.todo.comleted span {
+.todo.completed span {
   text-decoration: line-through;
 }
 
@@ -41,4 +41,8 @@ code {
 
 .todo i {
   z-index: 2;
+}
+
+.center {
+  font-size: 2rem;
 }
